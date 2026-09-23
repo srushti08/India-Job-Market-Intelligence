@@ -2,7 +2,7 @@
 
 An end-to-end data analytics project exploring the Indian job market using a dataset of ~98,000 job postings — covering data cleaning, SQL analysis, and a Power BI dashboard.
 
-![Dashboard Preview](dashboard/dashboard_screenshot.png)
+![Dashboard Preview](Dashboard/Dashboard.png)
 
 ## 📊 Overview
 
